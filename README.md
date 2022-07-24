@@ -1,2 +1,2 @@
 # translator_program
-tarjimon kichik dastur
+tarjimon mini dastur
